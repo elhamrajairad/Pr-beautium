@@ -1,1 +1,1 @@
-# Pr-beautium
+# beautium-project
