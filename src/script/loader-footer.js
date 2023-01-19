@@ -16,7 +16,7 @@ function loadFooter() {
             <button type="submit">Subscrib</button>
         </form>
         <ul class="flex flex-row gap-12">
-            <li><a href="../src/index.html" class="capitalize text-sm font-normal hover:text-gray-400">Home</a></li>
+            <li><a href="/" class="capitalize text-sm font-normal hover:text-gray-400">Home</a></li>
             <li><a href="./services.html" class="capitalize text-sm font-normal hover:text-gray-400">Service</a></li>
             <li><a href="./team.html" class="capitalize text-sm font-normal hover:text-gray-400">Team</a></li>
             <li><a href="./contact.html" class="capitalize text-sm font-normal hover:text-gray-400">Contact</a></li>
