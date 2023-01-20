@@ -161,3 +161,9 @@ body {
 .information__map {
   filter: grayscale(100%);
 }
+/* testominials */
+.testimonials__slider__text {
+  width: 90%;
+  height: 10rem;
+  overflow-x: hidden;
+}
