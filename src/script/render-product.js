@@ -39,4 +39,4 @@ async function fetchApi() {
     console.log("please on vpn:)");
   }
 }
-// fetchApi();
+fetchApi();
