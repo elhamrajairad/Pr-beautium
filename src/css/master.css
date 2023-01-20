@@ -102,6 +102,9 @@ body {
 .services__icons p {
   opacity: 0.7;
 }
+.team__title__members {
+  justify-items: center;
+}
 /* about us */
 #about {
   background-color: var(--third-color);

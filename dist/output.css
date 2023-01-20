@@ -758,10 +758,6 @@ video {
   justify-content: space-between;
 }
 
-.justify-around {
-  justify-content: space-around;
-}
-
 .gap-12 {
   gap: 3rem;
 }
@@ -1129,6 +1125,10 @@ body {
   opacity: 0.7;
 }
 
+.team__title__members {
+  justify-items: center;
+}
+
 /* about us */
 
 #about {
@@ -1279,6 +1279,10 @@ body {
 
   .sm\:items-center {
     align-items: center;
+  }
+
+  .sm\:rounded-none {
+    border-radius: 0px;
   }
 
   .sm\:text-center {
