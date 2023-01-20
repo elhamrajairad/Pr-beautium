@@ -13,7 +13,7 @@ function loadHeader() {
               </section>
               <section class="navbar__menu mx-auto ">
                   <ul class="flex flex-wrap flex-row justify-between align-middle items-center gap-10 w-full ">
-                      <li><a href="../src/index.html" class="capitalize text-sm font-normal">home</a>
+                      <li><a href="../../index.html" class="capitalize text-sm font-normal">home</a>
                       </li>
                       <li><a href="./services.html" class="capitalize text-sm font-normal">service</a>
                       </li>

@@ -1,7 +1,7 @@
 const testimonialsEl = document.getElementById("testimonials");
 
 function loadeeTestimonial() {
-  let html = ` <div class="mx-auto px-4 2xl:container">
+  let html = `<div class="mx-auto px-4 2xl:container">
   <section class="testimonials flex flex-row justify-center align-middle items-center flex-wrap">
       <section class=" testimonials__pic sm:w-full lg:w-1/2">
           <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1424.089 1635.0319">
@@ -19,7 +19,7 @@ function loadeeTestimonial() {
           </h3>
           <section class="testimonials__slider__text mt-8 relative max-h-fit">
               <section
-                  class="absolute top-0 h-full w-full flex flex-row justify-around gap-4 slide transition-s">
+                  class="absolute top-0 h-full w-full flex flex-row justify-start gap-4 slide transition-s">
                   <i class="ri-double-quotes-r"></i>
                   <p class="my-10 w-3/4">Gulf menhaden ghost flathead Kafue pike lake trout. Betta gunnel
                       bighead
@@ -31,7 +31,7 @@ function loadeeTestimonial() {
                   </p>
               </section>
               <section
-                  class="absolute top-0 h-full w-full flex flex-row justify-around gap-4 slide transition-s">
+                  class="absolute top-0 h-full w-full flex flex-row justify-start gap-4 slide transition-s">
                   <i class="ri-double-quotes-r"></i>
                   <p class="my-10 w-3/4">I would go to cosmetics counters and buy two or three foundations
                       and powders, and then go home and mix them before I came up with something suitable
@@ -40,7 +40,7 @@ function loadeeTestimonial() {
                   </p>
               </section>
               <section
-                  class="absolute top-0 h-full w-full flex flex-row justify-around gap-4 slide transition-s">
+                  class="absolute top-0 h-full w-full flex flex-row justify-start gap-4 slide transition-s">
                   <i class="ri-double-quotes-r"></i>
                   <p class="my-10 w-3/4">Beautium is definitely the place to be when it comes to makeup:
                       You go into the store, and touch it, and try it, and love it. I've never bought
@@ -50,7 +50,7 @@ function loadeeTestimonial() {
               </section>
           </section>
           <section
-              class="testimonials__slider__text__slider--btn flex flex-row justify-around gap-8 align-middle">
+              class="testimonials__slider__text__slider--btn flex flex-row justify-self-start gap-8 align-middle">
               <i class="ri-arrow-left-line arrow-left cursor-pointer hover:text-orange-600"></i>
               <i class="ri-arrow-right-line arrow-right cursor-pointer hover:text-orange-600"></i>
           </section>

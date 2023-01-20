@@ -798,6 +798,10 @@ video {
   gap: 0.75rem;
 }
 
+.justify-self-start {
+  justify-self: start;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
